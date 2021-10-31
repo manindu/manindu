@@ -2,6 +2,9 @@
 
 I'm a frontend engineer who enjoys building amazing digital products and learning new things along the way.
 
+[![](https://github-readme-stats.vercel.app/api?username=manindu)](https://github.com/manindu/github-readme-stats)
+
+
 ### My tech stack
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
