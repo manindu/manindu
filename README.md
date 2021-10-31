@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Manindu
+## Hi there 👋, I'm Manindu
 
 I'm a frontend engineer who enjoys building amazing digital products and learning new things along the way.
 
