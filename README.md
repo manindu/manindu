@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Manindu
 
-I'm a frontend engineer who enjoys building amazing digital products and learning new things along the way.
+I'm a software engineer who enjoys building amazing digital products and learning new things.
 
 
 ### My tech stack
